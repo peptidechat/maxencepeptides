@@ -1,0 +1,1029 @@
+{
+  "status": "validation",
+  "products": [
+    {
+      "slug": "retatrutide",
+      "name": "Retatrutide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Triple agoniste GLP-1, le peptide métabolique de nouvelle génération le plus étudié.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "12mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "15mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "tirzepatide",
+      "name": "Tirzepatide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Double agoniste GIP/GLP-1 pour la recherche métabolique et la recomposition corporelle.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "15mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "40mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "semaglutide",
+      "name": "Semaglutide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Analogue du GLP-1 étudié en recherche métabolique.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "15mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cagrilintide",
+      "name": "Cagrilintide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Analogue de l'amyline, souvent associé à un GLP-1 en recherche.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "mazdutide",
+      "name": "Mazdutide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Double agoniste GLP-1/glucagon étudié pour le métabolisme.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "aod-9604",
+      "name": "AOD-9604",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Fragment de l'hormone de croissance étudié sur le tissu adipeux.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "5-amino-1mq",
+      "name": "5-Amino-1MQ",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Petite molécule étudiée sur le métabolisme des cellules graisseuses.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "adipotide",
+      "name": "Adipotide",
+      "category": "Métabolisme",
+      "category_key": "Metabolic",
+      "blurb": "Peptide de recherche ciblant la vascularisation du tissu adipeux.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "bpc-157",
+      "name": "BPC-157",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Body Protection Compound : le peptide de récupération de référence.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "15mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "tb-500",
+      "name": "TB-500",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Fragment de la thymosine bêta-4 étudié pour la réparation tissulaire.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "8mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "mots-c",
+      "name": "MOTS-C",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Peptide mitochondrial étudié pour la résilience métabolique.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 5000IU",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "40mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "bpc-157-ghk-cu-glow",
+      "name": "BPC-157 + GHK-Cu (GLOW)",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "GLOW : réparation et collagène réunis dans un seul flacon.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "70mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "80mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "bpc-157-tb-500-wolverine",
+      "name": "BPC-157 + TB-500 (Wolverine)",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Le stack Wolverine, pré-mélangé pour la recherche sur la récupération.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "80mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ss-31",
+      "name": "SS-31",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Peptide mitochondrial étudié pour l'énergie cellulaire.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "kpv",
+      "name": "KPV",
+      "category": "Récupération",
+      "category_key": "Recovery",
+      "blurb": "Tripeptide étudié pour ses propriétés anti-inflammatoires.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "tesamorelin",
+      "name": "Tesamorelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Analogue de la GHRH avec de solides données sur la graisse viscérale.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ipamorelin",
+      "name": "Ipamorelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "GHRP propre, effets secondaires minimes : idéal pour un premier cycle GH.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cjc-1295",
+      "name": "CJC-1295",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Analogue de la GHRH étudié pour la sécrétion pulsatile de GH.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "hgh",
+      "name": "HGH",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Hormone de croissance humaine recombinante, pour la recherche.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10 vials x 10IU",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 24iu",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 24IU",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 36iu",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 36IU",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10 vials x 15IU",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "semax",
+      "name": "Semax",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Neuropeptide nootropique : concentration et neuroprotection.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "sermorelin",
+      "name": "Sermorelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Analogue doux de la GHRH pour un protocole GH modéré.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "selank",
+      "name": "Selank",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Neuropeptide anxiolytique et nootropique.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "epithalon",
+      "name": "Epithalon",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Peptide de longévité étudié sur les télomères et la glande pinéale.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "survodutide",
+      "name": "Survodutide",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Double agoniste glucagon/GLP-1 en développement clinique.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cjc-1295-no-dac-ipamorelin",
+      "name": "CJC-1295 no DAC + Ipamorelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Le stack classique de sécrétagogues de GH.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cjc-1295-ipamorelin",
+      "name": "CJC-1295 + Ipamorelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Association CJC-1295 et Ipamorelin, pré-mélangée.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "dsip",
+      "name": "DSIP",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Peptide inducteur du sommeil delta, étudié sur le sommeil et le stress.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "15mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "igf-1-lr3",
+      "name": "IGF-1 LR3",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Variante longue durée de l'IGF-1 pour la recherche.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "1mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "aod",
+      "name": "aod",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "AOD, fragment de l'hormone de croissance.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "thymosin-alpha-1",
+      "name": "Thymosin Alpha-1",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Peptide thymique étudié pour la modulation immunitaire.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ll-37",
+      "name": "LL-37",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Peptide antimicrobien humain, étudié en immunologie.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "nad",
+      "name": "NAD+",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Cofacteur de l'énergie cellulaire et de la longévité.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "100mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "500mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "1000mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cjc-1295-w-dac",
+      "name": "CJC-1295 w/ DAC",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "CJC-1295 avec DAC, action prolongée.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ghrp-6",
+      "name": "GHRP-6",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Sécrétagogue de GH de première génération.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "oxytocin",
+      "name": "OXYTOCIN",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Ocytocine, étudiée sur le lien social et le comportement.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "fox04-dri",
+      "name": "FOX04-DRI",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Peptide sénolytique de recherche.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ghrp-2",
+      "name": "GHRP-2",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Sécrétagogue de GH puissant, à action courte.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "pe-22-28",
+      "name": "PE-22-28",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Fragment de spadine étudié sur l'humeur et la neurogenèse.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "cjc-1295-no-dac",
+      "name": "CJC-1295 no DAC",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "CJC-1295 sans DAC (Mod GRF 1-29).",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "2mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "hexarelin",
+      "name": "Hexarelin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Sécrétagogue de GH à forte affinité.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "na-semax-amidate",
+      "name": "NA SEMAX AMIDATE",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Semax N-acétyl amidé, forme plus stable.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "30mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "thymalin",
+      "name": "Thymalin",
+      "category": "Longévité",
+      "category_key": "Longevity",
+      "blurb": "Extrait peptidique thymique, étudié sur l'immunité.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ghk-cu",
+      "name": "GHK-Cu",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Tripeptide de cuivre : collagène, peau, cheveux et follicules.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "5g/kit",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "100mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "melanotan-ii",
+      "name": "Melanotan II",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Peptide de recherche sur la pigmentation et la libido.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "20mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "pt-141",
+      "name": "PT-141",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Bremelanotide, peptide de recherche sur la libido.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "snap-8",
+      "name": "SNAP-8",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Octapeptide étudié en cosmétique sur les rides d'expression.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "melanotan-i",
+      "name": "Melanotan I",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Afamelanotide, peptide de recherche sur la pigmentation.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "glutathione",
+      "name": "Glutathione",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Antioxydant majeur, étudié sur le stress oxydatif.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "500mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "1500mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "kisspeptin",
+      "name": "Kisspeptin",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Neuropeptide étudié sur l'axe reproducteur.",
+      "nasal": true,
+      "doses": [
+        {
+          "dose": "5mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "8mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "10mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    },
+    {
+      "slug": "ahk-cu",
+      "name": "AHK-Cu",
+      "category": "Beauté",
+      "category_key": "Beauty",
+      "blurb": "Peptide de cuivre spécifique aux cheveux, complément du GHK-Cu.",
+      "nasal": false,
+      "doses": [
+        {
+          "dose": "50mg",
+          "format": "Kit de 10 flacons"
+        },
+        {
+          "dose": "100mg",
+          "format": "Kit de 10 flacons"
+        }
+      ]
+    }
+  ]
+}

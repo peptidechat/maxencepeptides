@@ -1,0 +1,785 @@
+{
+ "retatrutide": [
+  {
+   "stat": "-24,2%",
+   "context": "variation moyenne du poids corporel à 48 sem., groupe 12 mg · essai de Phase 2",
+   "pmid": "37366315"
+  },
+  {
+   "stat": "83%",
+   "context": "du groupe 12 mg ont perdu ≥15 % de leur poids à 48 sem. · essai de Phase 2",
+   "pmid": "37366315"
+  },
+  {
+   "stat": "Triple récepteur",
+   "context": "agoniste des récepteurs GLP-1, GIP et glucagon · recherche sur l'obésité",
+   "pmid": "37366315"
+  }
+ ],
+ "tirzepatide": [
+  {
+   "stat": "-19,7%",
+   "context": "variation moyenne du poids corporel à 176 sem., 15 mg · Phase 3 SURMOUNT-1",
+   "pmid": "39536238"
+  },
+  {
+   "stat": "1,3% vs 13,3%",
+   "context": "apparition d'un diabète de type 2, tirzépatide vs placebo · essai de Phase 3",
+   "pmid": "39536238"
+  },
+  {
+   "stat": "-17,5%",
+   "context": "variation moyenne du poids corporel à 52 sem., 15 mg · essai de Phase 3 (Chine)",
+   "pmid": "38819983"
+  }
+ ],
+ "semaglutide": [
+  {
+   "stat": "~15%",
+   "context": "perte de poids moyenne à 68 sem., 2,4 mg · revue des essais sur l'obésité",
+   "pmid": "34942372"
+  },
+  {
+   "stat": "-9,6% vs -3,4%",
+   "context": "variation du poids vs placebo à 68 sem. · essai de Phase 3 STEP 2",
+   "pmid": "33667417"
+  },
+  {
+   "stat": "68,8%",
+   "context": "ont perdu ≥5 % de leur poids à 68 sem. vs 28,5 % sous placebo · Phase 3",
+   "pmid": "33667417"
+  }
+ ],
+ "cagrilintide": [
+  {
+   "stat": "-20,4%",
+   "context": "variation moyenne du poids à 68 sem. avec l'association CagriSema · Phase 3a",
+   "pmid": "40544433"
+  },
+  {
+   "stat": "-17,3 pts",
+   "context": "écart de variation du poids vs placebo à 68 sem. · essai de Phase 3a",
+   "pmid": "40544433"
+  },
+  {
+   "stat": "10,8%",
+   "context": "perte de poids à 4,5 mg, supérieure au liraglutide · essai de Phase 2",
+   "pmid": "34798060"
+  }
+ ],
+ "mazdutide": [
+  {
+   "stat": "-14,0%",
+   "context": "variation moyenne du poids corporel à 48 sem., 6 mg · essai de Phase 3 (Chine)",
+   "pmid": "40421736"
+  },
+  {
+   "stat": "82,0%",
+   "context": "ont perdu ≥5 % de leur poids à 32 sem., 6 mg · essai de Phase 3",
+   "pmid": "40421736"
+  },
+  {
+   "stat": "-1,67%",
+   "context": "baisse moyenne maximale de l'HbA1c à 20 sem. dans le diabète de type 2 · essai de Phase 2",
+   "pmid": "37943529"
+  }
+ ],
+ "aod-9604": [
+  {
+   "stat": "Sécrétagogue de GH",
+   "context": "étudié pour activer la signalisation IGF-1 et la réparation par cellules satellites · revue",
+   "pmid": "41490200"
+  },
+  {
+   "stat": "Anti-obésité",
+   "context": "nommé d'après le médicament anti-obésité 9604 ; données sur modèles animaux · revue",
+   "pmid": "41966639"
+  }
+ ],
+ "5-amino-1mq": [
+  {
+   "stat": "Inhibiteur de la NNMT",
+   "context": "bloque l'enzyme métabolique NNMT · recherche cellulaire et sur l'obésité",
+   "pmid": "33645410"
+  },
+  {
+   "stat": "Poids normalisé",
+   "context": "des souris obèses sous inhibition de la NNMT ont maigri vers le poids des témoins minces · étude chez la souris",
+   "pmid": "35013352"
+  }
+ ],
+ "adipotide": [
+  {
+   "stat": "Cible la graisse blanche",
+   "context": "a induit l'apoptose des vaisseaux sanguins du tissu adipeux blanc · étude chez le singe obèse",
+   "pmid": "22072637"
+  },
+  {
+   "stat": "Perte de poids rapide",
+   "context": "perte de poids et amélioration de l'insulinorésistance · étude chez le singe obèse",
+   "pmid": "22072637"
+  }
+ ],
+ "bpc-157": [
+  {
+   "stat": "7 of 12",
+   "context": "patients souffrant du genou ont rapporté >6 mois de soulagement après injection · série de cas",
+   "pmid": "40756949"
+  },
+  {
+   "stat": "544 études",
+   "context": "articles passés en revue (1993 à 2024) sur le BPC-157 · revue systématique",
+   "pmid": "40756949"
+  },
+  {
+   "stat": "Résultats constants",
+   "context": "cicatrisation rapide des tissus mous sur divers types de lésions · modèles rongeurs",
+   "pmid": "30915550"
+  }
+ ],
+ "tb-500": [
+  {
+   "stat": "Cicatrisation",
+   "context": "favorise l'angiogenèse et la migration cellulaire · modèles précliniques",
+   "pmid": "23084823"
+  },
+  {
+   "stat": "Réparation tissulaire",
+   "context": "résultats de réparation favorables · revue des peptides sur modèles animaux",
+   "pmid": "41966639"
+  }
+ ],
+ "mots-c": [
+  {
+   "stat": "16 acides aminés",
+   "context": "peptide codé dans l'ADN mitochondrial · étude de découverte",
+   "pmid": "25738459"
+  },
+  {
+   "stat": "Obésité induite bloquée",
+   "context": "a prévenu l'obésité induite par l'alimentation et l'insulinorésistance · étude chez la souris",
+   "pmid": "25738459"
+  },
+  {
+   "stat": "Activation AMPK",
+   "context": "améliore le métabolisme du glucose dans le muscle squelettique · revue",
+   "pmid": "36761202"
+  }
+ ],
+ "bpc-157-ghk-cu-glow": [
+  {
+   "stat": "Cicatrisation",
+   "context": "promesse du GHK-Cu en cicatrisation et anti-inflammation · revue",
+   "pmid": "41476424"
+  },
+  {
+   "stat": "Rajeunissement cutané",
+   "context": "peptides étudiés pour le rajeunissement cutané · revue narrative",
+   "pmid": "42123471"
+  }
+ ],
+ "bpc-157-tb-500-wolverine": [
+  {
+   "stat": "Tendon et muscle",
+   "context": "potentiel du BPC-157 dans la réparation des tendons et des muscles · revue narrative",
+   "pmid": "41476424"
+  },
+  {
+   "stat": "Angiogenèse",
+   "context": "le TB-500 a favorisé l'angiogenèse et la réparation tissulaire · modèles précliniques",
+   "pmid": "41476424"
+  }
+ ],
+ "ss-31": [
+  {
+   "stat": "moitié",
+   "context": "expression d'IL-1β et d'IL-18 réduite à moins de la moitié dans la fibrose pulmonaire · étude chez la souris",
+   "pmid": "38136142"
+  },
+  {
+   "stat": "significatif",
+   "context": "a atténué les troubles d'apprentissage et de mémoire induits par le LPS · étude chez la souris",
+   "pmid": "31747905"
+  },
+  {
+   "stat": "ciblé mitochondries",
+   "context": "a supprimé la ferroptose après hypoxie/réoxygénation · modèle cellulaire de cardiomyocytes",
+   "pmid": "39848110"
+  }
+ ],
+ "kpv": [
+  {
+   "stat": "tous sauvés",
+   "context": "toutes les souris traitées par KPV ont survécu à la colite au DSS, contre décès chez les témoins · modèle murin de colite",
+   "pmid": "18092346"
+  },
+  {
+   "stat": "nanomolaire",
+   "context": "le KPV à dose nanomolaire a inhibé la signalisation inflammatoire NF-κB · étude sur cellules humaines",
+   "pmid": "18061177"
+  },
+  {
+   "stat": "significatif",
+   "context": "baisse significative du marqueur inflammatoire MPO dans le côlon · modèle murin de colite",
+   "pmid": "18092346"
+  }
+ ],
+ "tesamorelin": [
+  {
+   "stat": "P=0,001",
+   "context": "baisse significative de la graisse viscérale vs placebo · essai randomisé en double aveugle (VIH)",
+   "pmid": "38905488"
+  },
+  {
+   "stat": "-4,2%",
+   "context": "réduction médiane de la graisse hépatique vs -0,5 % sous placebo, P=0,01 · essai randomisé",
+   "pmid": "38905488"
+  },
+  {
+   "stat": "Autorisé aux États-Unis",
+   "context": "premier traitement autorisé pour réduire l'excès de graisse abdominale dans le VIH · revue réglementaire",
+   "pmid": "21283099"
+  }
+ ],
+ "ipamorelin": [
+  {
+   "stat": "ni ACTH ni cortisol",
+   "context": "a libéré la GH sans élever l'ACTH ni le cortisol, contrairement au GHRP-6 · étude chez le rat et le porc",
+   "pmid": "9849822"
+  },
+  {
+   "stat": "× 200",
+   "context": "sélectivité pour la GH maintenue même à >200× la dose libératrice de GH · étude chez le porc",
+   "pmid": "9849822"
+  },
+  {
+   "stat": "premier sélectif",
+   "context": "premier sécrétagogue sélectif de l'hormone de croissance · étude in vitro et animale",
+   "pmid": "9849822"
+  }
+ ],
+ "cjc-1295": [
+  {
+   "stat": "× 2 à 10",
+   "context": "une dose unique a élevé la GH plasmatique pendant 6 jours et plus · essai chez l'adulte sain",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "jusqu’à 28 jours",
+   "context": "l'IGF-I est resté au-dessus de la valeur de base après doses multiples · essai chez l'adulte sain",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "× 1,5 à 3",
+   "context": "une dose unique a élevé l'IGF-I pendant 9 à 11 jours · essai chez l'adulte sain",
+   "pmid": "16352683"
+  }
+ ],
+ "hgh": [
+  {
+   "stat": "11,2 cm/an",
+   "context": "vitesse de croissance sous lonapegsomatropine hebdomadaire, supérieure au quotidien · essai de Phase 3 chez l'enfant",
+   "pmid": "34272849"
+  },
+  {
+   "stat": "10,10 cm/an",
+   "context": "vitesse de croissance sous somatrogon hebdomadaire, non inférieure au quotidien · essai de Phase 3 chez l'enfant",
+   "pmid": "35405011"
+  },
+  {
+   "stat": "hebdomadaire",
+   "context": "la prise hebdomadaire a égalé les injections quotidiennes sur la croissance · essai de Phase 3 chez l'enfant",
+   "pmid": "34272849"
+  }
+ ],
+ "semax": [
+  {
+   "stat": "récupération améliorée",
+   "context": "a favorisé la récupération fonctionnelle après lésion de la moelle épinière · étude chez la souris femelle",
+   "pmid": "40692165"
+  },
+  {
+   "stat": "normalisé",
+   "context": "a réduit l'anxiété et normalisé les amines cérébrales après exposition précoce aux ISRS · étude chez le rat",
+   "pmid": "33418449"
+  },
+  {
+   "stat": "neuroprotecteur",
+   "context": "heptapeptide synthétique ACTH(4-7) à action neuroprotectrice · étude chez la souris",
+   "pmid": "40692165"
+  }
+ ],
+ "sermorelin": [
+  {
+   "stat": "meilleur résultat",
+   "context": "molécule la plus sensible contre le gliome récidivant parmi 4 865 médicaments criblés · transcriptomique de patients",
+   "pmid": "33842627"
+  },
+  {
+   "stat": "1 018 patients",
+   "context": "cohorte de criblage ayant identifié la sermoréline pour le gliome récidivant · étude sur données de patients",
+   "pmid": "33842627"
+  },
+  {
+   "stat": "Analogue de la GHRH",
+   "context": "analogue synthétique de la GHRH détectable à ≤1 ng/ml dans l'urine · étude de méthode analytique",
+   "pmid": "34665524"
+  }
+ ],
+ "selank": [
+  {
+   "stat": "-39,6%",
+   "context": "a réduit l'indice global de sevrage morphinique à une dose anxiolytique · étude chez le rat",
+   "pmid": "36322304"
+  },
+  {
+   "stat": "× 9",
+   "context": "a relevé le seuil de sensibilité tactile chez des rats dépendants à la morphine · étude chez le rat",
+   "pmid": "36322304"
+  },
+  {
+   "stat": "IL-1β/IL-6 abaissées",
+   "context": "a ramené IL-1β, IL-6 et TNF-α induits par le stress vers les valeurs témoins · modèle de stress chez le rat",
+   "pmid": "32621722"
+  }
+ ],
+ "epithalon": [
+  {
+   "stat": "× 3,7",
+   "context": "plus de souris sont restées indemnes de tumeurs mammaires · étude chez la souris transgénique",
+   "pmid": "12459848"
+  },
+  {
+   "stat": "+13,5%",
+   "context": "durée de vie moyenne allongée ; durée de vie sans tumeur +34,2 % · étude chez la souris transgénique",
+   "pmid": "12459848"
+  },
+  {
+   "stat": "télomérase",
+   "context": "tétrapeptide dont il est démontré qu'il stimule l'activité télomérase · revue de 25 ans de recherche",
+   "pmid": "40141333"
+  }
+ ],
+ "survodutide": [
+  {
+   "stat": "62%",
+   "context": "amélioration de la MASH sans aggravation de la fibrose vs 14 % sous placebo · essai de Phase 2",
+   "pmid": "38847460"
+  },
+  {
+   "stat": "-14,9%",
+   "context": "réduction du poids à la dose la plus élevée vs -2,8 % sous placebo · essai de Phase 2 sur l'obésité",
+   "pmid": "38330987"
+  },
+  {
+   "stat": "67%",
+   "context": "réduction de la graisse hépatique ≥30 % vs 14 % sous placebo · essai de Phase 2 sur la MASH",
+   "pmid": "38847460"
+  }
+ ],
+ "cjc-1295-no-dac-ipamorelin": [
+  {
+   "stat": "significatif",
+   "context": "CJC-1295 + ipamoréline ont augmenté la tension tétanique maximale en cas de perte musculaire · étude chez la souris",
+   "pmid": "41476424"
+  },
+  {
+   "stat": "Signalisation IGF-1",
+   "context": "les sécrétagogues de l'hormone de croissance activent l'IGF-1 et la réparation par cellules satellites · revue",
+   "pmid": "41490200"
+  },
+  {
+   "stat": "Modulation de la GH",
+   "context": "CJC-1295 et ipamoréline cités pour la modulation de l'hormone de croissance dans le vieillissement · revue",
+   "pmid": "42021992"
+  }
+ ],
+ "cjc-1295-ipamorelin": [
+  {
+   "stat": "significatif",
+   "context": "CJC-1295 + ipamoréline ont amélioré la tension tétanique maximale en cas de perte musculaire · étude chez la souris",
+   "pmid": "41476424"
+  },
+  {
+   "stat": "Signalisation IGF-1",
+   "context": "les sécrétagogues de l'hormone de croissance activent l'IGF-1 et la réparation par cellules satellites · revue",
+   "pmid": "41490200"
+  },
+  {
+   "stat": "Modulation de la GH",
+   "context": "CJC-1295 et ipamoréline cités pour la modulation de l'hormone de croissance dans le vieillissement · revue",
+   "pmid": "42021992"
+  }
+ ],
+ "dsip": [
+  {
+   "stat": "MW 849",
+   "context": "nonapeptide ayant induit surtout du sommeil delta chez le lapin, le rat, la souris et l'humain · revue",
+   "pmid": "6145137"
+  },
+  {
+   "stat": "Isolé en 1977",
+   "context": "d'abord isolé dans le sang veineux cérébral du lapin comme facteur candidat du sommeil · revue",
+   "pmid": "16539679"
+  },
+  {
+   "stat": "5 positions sur 9",
+   "context": "le décapeptide dermorphine somnogène est structurellement proche du DSIP · revue",
+   "pmid": "16539679"
+  }
+ ],
+ "igf-1-lr3": [
+  {
+   "stat": "Bioactivité équivalente",
+   "context": "l'IGF-1 LR3 recombinant a montré une bioactivité de prolifération cellulaire comparable à l'IGF-1 standard · expression en laboratoire",
+   "pmid": "37261455"
+  },
+  {
+   "stat": "1 g/L",
+   "context": "rendement en IGF-1 LR3 de fusion par fermentation dans un bioréacteur de 15 L · expression en laboratoire",
+   "pmid": "37261455"
+  },
+  {
+   "stat": "Poids corporel augmenté",
+   "context": "une perfusion d'IGF-1 LR3 d'une sem. a augmenté le poids de fœtus ovins normaux · étude chez le mouton",
+   "pmid": "39679943"
+  }
+ ],
+ "aod": [
+  {
+   "stat": "Signalisation IGF-1",
+   "context": "l'AOD-9604 classé parmi les sécrétagogues de GH activant la signalisation IGF-1 · revue",
+   "pmid": "41490200"
+  },
+  {
+   "stat": "Origine anti-obésité",
+   "context": "AOD-9604 = anti-obesity drug 9604, profilé en médecine du sport · revue",
+   "pmid": "41966639"
+  }
+ ],
+ "thymosin-alpha-1": [
+  {
+   "stat": "71% vs 35%",
+   "context": "ALT normales à 6 mois, association TA1+IFN vs IFN seul dans l'hépatite C · essais cliniques",
+   "pmid": "11381492"
+  },
+  {
+   "stat": "65% vs 29%",
+   "context": "clairance de l'ARN du virus de l'hépatite C, association vs IFN seul · essai clinique",
+   "pmid": "11381492"
+  },
+  {
+   "stat": "Mortalité réduite",
+   "context": "la TA1 a réduit la mortalité du sepsis et augmenté le HLA-DR monocytaire · revue d'études cliniques",
+   "pmid": "30063866"
+  }
+ ],
+ "ll-37": [
+  {
+   "stat": "Seule cathélicidine humaine",
+   "context": "le LL-37 est la seule cathélicidine humaine, à large spectre et immunomodulatrice · revue",
+   "pmid": "27117377"
+  },
+  {
+   "stat": "Épargne les cellules saines",
+   "context": "détruit sélectivement les membranes des microbes et des cellules cancéreuses, pas des cellules normales · revue",
+   "pmid": "26434733"
+  }
+ ],
+ "nad": [
+  {
+   "stat": "Décline avec l’âge",
+   "context": "le NAD+ tissulaire et cellulaire diminue avec l'âge chez les rongeurs et l'humain · revue",
+   "pmid": "33353981"
+  },
+  {
+   "stat": "Même inversé",
+   "context": "de nombreuses maladies liées à l'âge ralenties ou inversées par la restauration du NAD+ · revue",
+   "pmid": "33353981"
+  }
+ ],
+ "cjc-1295-w-dac": [
+  {
+   "stat": "× 2 à 10",
+   "context": "hausse de la GH plasmatique moyenne après une seule injection de CJC-1295 chez l'adulte sain · essai",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "Jusqu’à 28 jours",
+   "context": "l'IGF-I est resté au-dessus de la valeur de base après plusieurs doses de CJC-1295 chez l'adulte sain · essai",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "demi-vie 5,8 à 8,1 j",
+   "context": "demi-vie estimée du CJC-1295 chez l'adulte sain · essai",
+   "pmid": "16352683"
+  }
+ ],
+ "ghrp-6": [
+  {
+   "stat": "Fonction cardiaque préservée",
+   "context": "le GHRP-6 a prévenu la dilatation ventriculaire due à la doxorubicine chez le rat · étude chez le rat",
+   "pmid": "38873418"
+  },
+  {
+   "stat": "Bcl-2 surexprimé",
+   "context": "le GHRP-6 a augmenté le gène de survie Bcl-2 et protégé les mitochondries · étude chez le rat",
+   "pmid": "38873418"
+  },
+  {
+   "stat": "Survie cellulaire accrue",
+   "context": "un hydrogel de GHRP-6 a amélioré la survie des cellules tubulaires rénales via mTOR-P70 · étude chez la souris",
+   "pmid": "41327290"
+  }
+ ],
+ "oxytocin": [
+  {
+   "stat": "Jusqu’à 2 heures",
+   "context": "l'ocytocine à forte dose a raccourci la durée du travail vs absence de perfusion · revue",
+   "pmid": "38462255"
+  },
+  {
+   "stat": "× 2 à 3",
+   "context": "hausse de l'ocytocine plasmatique à 20-30 mUI/min de perfusion au-dessus du niveau basal · revue",
+   "pmid": "38462255"
+  }
+ ],
+ "fox04-dri": [
+  {
+   "stat": "Spermatogenèse améliorée",
+   "context": "le FOXO4-DRI a amélioré la qualité du sperme chez des souris âgées naturellement · étude chez la souris",
+   "pmid": "39025385"
+  },
+  {
+   "stat": "Chute de testostérone atténuée",
+   "context": "le FOXO4-DRI a atténué la baisse de testostérone liée à l'âge chez des souris âgées · étude chez la souris",
+   "pmid": "31959736"
+  },
+  {
+   "stat": "Cellules sénescentes éliminées",
+   "context": "le FOXO4-DRI a déclenché l'apoptose de fibroblastes sénescents de chéloïde · culture cellulaire et d'organe",
+   "pmid": "39994346"
+  }
+ ],
+ "ghrp-2": [
+  {
+   "stat": "+35,9%",
+   "context": "hausse de la prise alimentaire libre sous GHRP-2 vs sérum salé chez des hommes sains · essai",
+   "pmid": "15699539"
+  },
+  {
+   "stat": "Tous les sujets ont mangé plus",
+   "context": "les 7 hommes minces et sains ont augmenté leur prise par kg sous GHRP-2 · essai",
+   "pmid": "15699539"
+  },
+  {
+   "stat": "Gènes d’atrophie freinés",
+   "context": "le GHRP-2 a atténué les gènes d'atrophie musculaire Atrogin-1/MuRF1 · étude chez le rat et sur cellules",
+   "pmid": "18191156"
+  }
+ ],
+ "pe-22-28": [
+  {
+   "stat": "IC50 0,12 nM",
+   "context": "affinité du PE 22-28 pour TREK-1 vs 40-60 nM pour la spadine · patch-clamp cellulaire",
+   "pmid": "28955242"
+  },
+  {
+   "stat": "Jusqu’à 23 heures",
+   "context": "durée d'action du PE 22-28 vs 7 h pour la spadine · étude comportementale chez la souris",
+   "pmid": "28955242"
+  },
+  {
+   "stat": "Neurogenèse en 4 jours",
+   "context": "le PE 22-28 a induit une neurogenèse après 4 jours de traitement · étude chez la souris",
+   "pmid": "28955242"
+  }
+ ],
+ "dermorphin": [
+  {
+   "stat": "Plus fort que la morphine",
+   "context": "efficacité et puissance antinociceptives des dermorphines supérieures à la morphine · rongeur et primate",
+   "pmid": "8981054"
+  },
+  {
+   "stat": "Moins de tolérance",
+   "context": "les dermorphines induisent moins de tolérance et de dépendance que la morphine · rat et souris",
+   "pmid": "8981054"
+  },
+  {
+   "stat": "Pas d’addiction",
+   "context": "le DALDA a soulagé la douleur de brûlure de façon dose-dépendante sans addiction · étude chez le rat",
+   "pmid": "40442534"
+  }
+ ],
+ "tadalafil": [
+  {
+   "stat": "509 788 hommes",
+   "context": "cohorte de dysfonction érectile suivie pendant 3 ans · étude longitudinale",
+   "pmid": "39532245"
+  },
+  {
+   "stat": "RR 0,66",
+   "context": "mortalité toutes causes vs non-utilisateurs chez des patients avec dysfonction érectile · étude longitudinale",
+   "pmid": "39532245"
+  },
+  {
+   "stat": "16 essais",
+   "context": "comparaison directe avec le sildénafil dans la dysfonction érectile · méta-analyse",
+   "pmid": "28741090"
+  }
+ ],
+ "cjc-1295-no-dac": [
+  {
+   "stat": "× 2 à 10",
+   "context": "hausse de la GH plasmatique moyenne pendant 6 jours et plus après une dose · adultes sains",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "Jusqu’à 28 jours",
+   "context": "l'IGF-I est resté au-dessus de la valeur de base après doses multiples · adultes sains",
+   "pmid": "16352683"
+  },
+  {
+   "stat": "5,8 à 8,1 jours",
+   "context": "demi-vie estimée du CJC-1295 · adultes sains",
+   "pmid": "16352683"
+  }
+ ],
+ "hexarelin": [
+  {
+   "stat": "MDM2/p53",
+   "context": "voie par laquelle l'hexaréline a réduit l'apoptose dans la lésion rénale · étude chez le rat",
+   "pmid": "37710348"
+  },
+  {
+   "stat": "Aorte plus petite",
+   "context": "diamètre de l'anévrisme réduit, moindre perte d'élastine · modèle murin",
+   "pmid": "34856183"
+  },
+  {
+   "stat": "Plus puissant",
+   "context": "plus stable et plus puissante que la ghréline naturelle sur le cœur · revue",
+   "pmid": "25278975"
+  }
+ ],
+ "na-semax-amidate": [
+  {
+   "stat": "récepteur μ-opioïde",
+   "context": "cible du Semax à l'origine de la récupération médullaire · souris femelles",
+   "pmid": "40692165"
+  },
+  {
+   "stat": "Moins d’anxiété",
+   "context": "le Semax a normalisé l'anxiété et l'apprentissage après exposition aux ISRS · étude chez le rat",
+   "pmid": "33418449"
+  }
+ ],
+ "thymalin": [
+  {
+   "stat": "× 4,1",
+   "context": "mortalité plus faible sur 6 ans (avec Epithalamine) vs témoins · étude clinique, 60 ans et plus",
+   "pmid": "12577695"
+  },
+  {
+   "stat": "6,8×",
+   "context": "hausse du marqueur CD28 des lymphocytes T matures · étude sur cellules souches humaines",
+   "pmid": "33237528"
+  },
+  {
+   "stat": "Jusqu’à 6× moins",
+   "context": "baisse des cytokines inflammatoires IL-1β/IL-6/TNF-α · modèle cellulaire humain",
+   "pmid": "37686182"
+  }
+ ],
+ "ghk-cu": [
+  {
+   "stat": "4 000 gènes",
+   "context": "gènes humains que le GHK peut activer ou réprimer · revue",
+   "pmid": "26236730"
+  },
+  {
+   "stat": "200 → 80 ng/ml",
+   "context": "le GHK sérique chute entre 20 et 60 ans · revue",
+   "pmid": "35083444"
+  },
+  {
+   "stat": "Déclin inversé",
+   "context": "a partiellement inversé le déclin cognitif via des voies anti-inflammatoires · souris âgées",
+   "pmid": "35083444"
+  }
+ ],
+ "melanotan-ii": [
+  {
+   "stat": "Perte de mémoire inversée",
+   "context": "a annulé le trouble de mémoire de reconnaissance dû à un régime riche en graisses · étude chez le poisson-zèbre",
+   "pmid": "37478579"
+  },
+  {
+   "stat": "Anxiété réduite",
+   "context": "a ramené l'anxiété et l'exploration au niveau des témoins · étude chez le poisson-zèbre",
+   "pmid": "37478579"
+  }
+ ],
+ "pt-141": [
+  {
+   "stat": "Phase III",
+   "context": "le PT-141 a atteint les essais de phase III pour la dysfonction sexuelle · développement clinique",
+   "pmid": "15134289"
+  },
+  {
+   "stat": "Première autorisation",
+   "context": "le brémélanotide est devenu le premier médicament de sa classe autorisé aux États-Unis pour le HSDD · revue réglementaire",
+   "pmid": "31429064"
+  }
+ ],
+ "snap-8": [],
+ "melanotan-i": [
+  {
+   "stat": "13 acides aminés",
+   "context": "l'afamélanotide est un peptidomimétique de l'α-MSH à 13 résidus · étude analytique",
+   "pmid": "41547183"
+  },
+  {
+   "stat": "Phase II/III",
+   "context": "l'analogue réglementé afamélanotide en essais pour la photosensibilité · revue",
+   "pmid": "20545686"
+  }
+ ],
+ "glutathione": [
+  {
+   "stat": "Millimolaire",
+   "context": "présent à des concentrations millimolaires dans presque toutes les cellules eucaryotes · revue",
+   "pmid": "30427707"
+  },
+  {
+   "stat": "Tous les compartiments",
+   "context": "présent dans pratiquement tous les compartiments subcellulaires via des transporteurs · revue",
+   "pmid": "30427707"
+  }
+ ],
+ "kisspeptin": [
+  {
+   "stat": "Déclencheur de la puberté",
+   "context": "facteur clé du déclenchement de la puberté via l'axe HPG · revue",
+   "pmid": "35837314"
+  },
+  {
+   "stat": "Insuline stimulée",
+   "context": "a renforcé la sécrétion d'insuline stimulée par le glucose · humains (étude interventionnelle)",
+   "pmid": "31869842"
+  }
+ ],
+ "ahk-cu": [
+  {
+   "stat": "Follicules plus longs",
+   "context": "a stimulé l'élongation de follicules pileux humains à 10⁻¹²-10⁻⁹ M · étude ex vivo / cellulaire",
+   "pmid": "17703734"
+  },
+  {
+   "stat": "Moins de cellules apoptotiques",
+   "context": "a augmenté Bcl-2/Bax et réduit la caspase-3 dans les cellules de papille dermique · in vitro",
+   "pmid": "17703734"
+  }
+ ]
+}
