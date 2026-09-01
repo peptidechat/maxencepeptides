@@ -215,17 +215,19 @@ body.page{padding-top:0}
 .prod-card{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);
   border-radius:16px;overflow:hidden;transition:.3s}
 .prod-card:hover{transform:translateY(-4px);border-color:var(--florida);box-shadow:0 26px 60px -34px rgba(40,58,72,.35)}
-.pc-thumb{aspect-ratio:16/10;overflow:hidden;background:linear-gradient(180deg,#EFEBE2,#E6E1D6)}
-.pc-thumb img{width:100%;height:100%;object-fit:cover;transition:.5s}
-.prod-card:hover .pc-thumb img{transform:scale(1.04)}
-.pc-body{padding:20px 20px 22px;display:flex;flex-direction:column;gap:6px;flex:1}
+.pc-thumb{aspect-ratio:4/3;overflow:hidden;background:linear-gradient(180deg,#EFEBE2,#E6E1D6)}
+.pc-thumb img{display:block;width:100%;height:100%;object-fit:contain;object-position:center;transition:.5s}
+.prod-card:hover .pc-thumb img{transform:scale(1.02)}
+.pc-body{padding:24px 24px 26px;display:flex;flex-direction:column;gap:8px;flex:1}
 .pc-cat2{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--sage-deep);font-weight:600}
 .pc-body h3{font-family:var(--serif);font-weight:600;font-size:23px;line-height:1.1}
-.pc-blurb{font-size:13px;color:var(--ink-soft);flex:1;line-height:1.45}
-.pc-foot{display:flex;align-items:center;justify-content:space-between;margin-top:8px;gap:8px}
-.pc-from{font-family:var(--serif);font-size:19px}
+.pc-blurb{font-size:13px;color:var(--ink-soft);flex:1;line-height:1.55}
+.pc-foot{display:grid;grid-template-columns:minmax(0,1fr);align-items:start;gap:12px;
+  margin-top:12px;padding-top:16px;border-top:1px solid var(--line)}
+.pc-from{font-family:var(--serif);font-size:19px;line-height:1.35;min-width:0}
 .card-coa{font-size:11px;font-weight:600;color:var(--sage-deep);background:rgba(79,111,122,.13);
-  padding:4px 9px;border-radius:100px;white-space:nowrap}
+  display:block;width:fit-content;max-width:100%;padding:6px 10px;border-radius:12px;
+  white-space:normal;overflow-wrap:anywhere;line-height:1.35}
 .card-coa.pending{color:var(--ink-soft);background:var(--line)}
 
 /* ===== product detail ===== */
